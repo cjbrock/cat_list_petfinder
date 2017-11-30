@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/cat_list_petfinder'
+
+CatListPetfinder::CLI.new.start

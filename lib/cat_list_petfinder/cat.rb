@@ -1,0 +1,2 @@
+class CatListPetfinder::Cat
+end
